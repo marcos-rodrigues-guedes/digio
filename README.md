@@ -11,7 +11,6 @@ A arquitetura MVP-C (Model-View-Presenter-Coordinator) oferece uma estrutura org
 # Bibliotecas utilizadas.
 
 * Kingfisher: A biblioteca Kingfisher é amplamente utilizada no desenvolvimento de aplicativos iOS para carregar e gerenciar imagens. Ela oferece recursos como carregamento eficiente, cache automático, suporte a placeholder e fallback, manipulação de imagens e integração com outras bibliotecas e serviços. Com seu mecanismo de cache, o Kingfisher permite o carregamento rápido das imagens, mesmo offline, e reduz a complexidade do código. Além disso, sua facilidade de uso e suporte a recursos avançados tornam-no uma escolha eficiente para o gerenciamento de imagens em aplicativos iOS.
-https://github.com/onevcat/Kingfisher
 
 * SnapKit: O SnapKit é uma biblioteca popular para iOS que simplifica a criação de layouts e constraints de forma programática. Com uma sintaxe declarativa e intuitiva, permite um código mais limpo, organizado e de fácil manutenção. Sua integração com Swift, recursos avançados e ampla adoção o tornam uma escolha confiável e produtiva para desenvolvimento de interfaces iOS responsivas.
 
