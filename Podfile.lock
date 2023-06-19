@@ -1,0 +1,32 @@
+PODS:
+  - Kingfisher (7.8.0)
+  - SkeletonView (1.30.4)
+  - SnapKit (5.6.0)
+  - SnapshotTesting (1.9.0)
+  - SwiftLint (0.52.2)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.8)
+  - SkeletonView
+  - SnapKit
+  - SnapshotTesting
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SkeletonView
+    - SnapKit
+    - SnapshotTesting
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Kingfisher: 0656e1b064bfc1ca1cd04e033f617a86559696e9
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SnapshotTesting: 6141c48b6aa76ead61431ca665c14ab9a066c53b
+  SwiftLint: 1ac76dac888ca05cb0cf24d0c85887ec1209961d
+
+PODFILE CHECKSUM: 4f9429284d129282f65772f3eb8e559a025950c0
+
+COCOAPODS: 1.12.1

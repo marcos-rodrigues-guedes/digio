@@ -1,0 +1,8 @@
+disabled_rules:
+  - trailing_whitespace
+  - control_statement
+opt_in_rules:
+  - empty_count
+  
+excluded:
+  - Pods/

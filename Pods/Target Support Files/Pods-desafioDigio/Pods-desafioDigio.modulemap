@@ -1,0 +1,6 @@
+framework module Pods_desafioDigio {
+  umbrella header "Pods-desafioDigio-umbrella.h"
+
+  export *
+  module * { export * }
+}
