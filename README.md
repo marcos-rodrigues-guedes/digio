@@ -16,3 +16,6 @@ https://github.com/onevcat/Kingfisher
 * SnapKit: O SnapKit é uma biblioteca popular para iOS que simplifica a criação de layouts e constraints de forma programática. Com uma sintaxe declarativa e intuitiva, permite um código mais limpo, organizado e de fácil manutenção. Sua integração com Swift, recursos avançados e ampla adoção o tornam uma escolha confiável e produtiva para desenvolvimento de interfaces iOS responsivas.
 
 * SkeletonView: O SkeletonView é uma biblioteca útil para iOS que oferece uma maneira fácil e eficiente de adicionar animações de esqueleto às suas visualizações enquanto o conteúdo real está sendo carregado. Com poucas linhas de código, é possível fornecer uma experiência visual agradável para os usuários, transmitindo a sensação de progresso e mantendo-os engajados. O SkeletonView é altamente personalizável, compatível com Auto Layout e suporta diferentes tipos de visualizações, tornando-o uma ótima escolha para aprimorar a usabilidade e a estética de aplicativos iOS.
+
+# Run
+* pod install
