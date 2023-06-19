@@ -7,7 +7,25 @@
 		<key>desafioDigio.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>7</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B630BA3A2A37ADB500D90A5B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B630BA502A37ADB700D90A5B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B630BA5A2A37ADB700D90A5B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -1,13 +1,6 @@
-//
-//  desafioDigioUITestsLaunchTests.swift
-//  desafioDigioUITests
-//
-//  Created by MagnaTI on 12/06/23.
-//
-
 import XCTest
 
-final class desafioDigioUITestsLaunchTests: XCTestCase {
+final class DesafioDigioUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

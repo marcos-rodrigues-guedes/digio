@@ -1,0 +1,43 @@
+{
+  "configurations" : [
+    {
+      "id" : "CE82112B-6F96-4609-961C-2A3691D69C9D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:desafioDigio.xcodeproj",
+      "identifier" : "B630BA3A2A37ADB500D90A5B",
+      "name" : "desafioDigio"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "skippedTests" : [
+        "NetworkManagerTests\/testInvalidJSON()",
+        "NetworkManagerTests\/testInvalidResponse()",
+        "NetworkManagerTests\/testInvalidURL()",
+        "NetworkManagerTests\/testServerError()"
+      ],
+      "target" : {
+        "containerPath" : "container:desafioDigio.xcodeproj",
+        "identifier" : "B630BA502A37ADB700D90A5B",
+        "name" : "desafioDigioTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:desafioDigio.xcodeproj",
+        "identifier" : "B630BA5A2A37ADB700D90A5B",
+        "name" : "desafioDigioUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
