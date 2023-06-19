@@ -25,12 +25,10 @@
 		B630BA942A38B3AF00D90A5B /* UIImageView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BA932A38B3AF00D90A5B /* UIImageView+Extension.swift */; };
 		B630BA972A38DC7A00D90A5B /* SpotLightItemViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BA962A38DC7900D90A5B /* SpotLightItemViewCell.swift */; };
 		B630BA992A38E01B00D90A5B /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BA982A38E01B00D90A5B /* UIImage+Extension.swift */; };
-		B630BA9E2A39319900D90A5B /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BA9D2A39319900D90A5B /* UIView+Extension.swift */; };
 		B630BAA02A3932DC00D90A5B /* ProductItemViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BA9F2A3932DC00D90A5B /* ProductItemViewCell.swift */; };
 		B630BAA22A39380C00D90A5B /* HomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAA12A39380C00D90A5B /* HomeViewModel.swift */; };
 		B630BAA42A393AE300D90A5B /* HomeAdapterProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAA32A393AE300D90A5B /* HomeAdapterProtocol.swift */; };
 		B630BAA62A393C9400D90A5B /* HomeAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAA52A393C9400D90A5B /* HomeAdapter.swift */; };
-		B630BAA82A393E8C00D90A5B /* URL+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAA72A393E8C00D90A5B /* URL+Extension.swift */; };
 		B630BAAB2A3A0F8B00D90A5B /* NetworkManagerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAAA2A3A0F8B00D90A5B /* NetworkManagerProtocol.swift */; };
 		B630BAAD2A3A0FE800D90A5B /* RequestProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAAC2A3A0FE800D90A5B /* RequestProtocol.swift */; };
 		B630BAAF2A3A102D00D90A5B /* RequestMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630BAAE2A3A102D00D90A5B /* RequestMethod.swift */; };
@@ -114,12 +112,10 @@
 		B630BA932A38B3AF00D90A5B /* UIImageView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+Extension.swift"; sourceTree = "<group>"; };
 		B630BA962A38DC7900D90A5B /* SpotLightItemViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpotLightItemViewCell.swift; sourceTree = "<group>"; };
 		B630BA982A38E01B00D90A5B /* UIImage+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
-		B630BA9D2A39319900D90A5B /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		B630BA9F2A3932DC00D90A5B /* ProductItemViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItemViewCell.swift; sourceTree = "<group>"; };
 		B630BAA12A39380C00D90A5B /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
 		B630BAA32A393AE300D90A5B /* HomeAdapterProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAdapterProtocol.swift; sourceTree = "<group>"; };
 		B630BAA52A393C9400D90A5B /* HomeAdapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAdapter.swift; sourceTree = "<group>"; };
-		B630BAA72A393E8C00D90A5B /* URL+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URL+Extension.swift"; sourceTree = "<group>"; };
 		B630BAAA2A3A0F8B00D90A5B /* NetworkManagerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManagerProtocol.swift; sourceTree = "<group>"; };
 		B630BAAC2A3A0FE800D90A5B /* RequestProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestProtocol.swift; sourceTree = "<group>"; };
 		B630BAAE2A3A102D00D90A5B /* RequestMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestMethod.swift; sourceTree = "<group>"; };
@@ -330,8 +326,6 @@
 			children = (
 				B630BA932A38B3AF00D90A5B /* UIImageView+Extension.swift */,
 				B630BA982A38E01B00D90A5B /* UIImage+Extension.swift */,
-				B630BA9D2A39319900D90A5B /* UIView+Extension.swift */,
-				B630BAA72A393E8C00D90A5B /* URL+Extension.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -800,7 +794,6 @@
 				B630BABD2A3A23AA00D90A5B /* HomeRequest.swift in Sources */,
 				B630BA992A38E01B00D90A5B /* UIImage+Extension.swift in Sources */,
 				B630BADA2A3D1A7A00D90A5B /* Utils.swift in Sources */,
-				B630BAA82A393E8C00D90A5B /* URL+Extension.swift in Sources */,
 				B630BAC42A3A720B00D90A5B /* ErrorView.swift in Sources */,
 				B630BA732A37C66800D90A5B /* AppCoordinator.swift in Sources */,
 				B630BA912A389B0500D90A5B /* HomeView.swift in Sources */,
@@ -820,7 +813,6 @@
 				B630BAB12A3A10A100D90A5B /* NetworkError.swift in Sources */,
 				B630BAD32A3BB2BB00D90A5B /* HomeCoordinator.swift in Sources */,
 				B630BAAD2A3A0FE800D90A5B /* RequestProtocol.swift in Sources */,
-				B630BA9E2A39319900D90A5B /* UIView+Extension.swift in Sources */,
 				B630BA892A3807DE00D90A5B /* HomePresenterProtocol.swift in Sources */,
 				B630BABA2A3A1FCD00D90A5B /* AppError.swift in Sources */,
 				B630BAA42A393AE300D90A5B /* HomeAdapterProtocol.swift in Sources */,

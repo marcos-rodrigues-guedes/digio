@@ -2,7 +2,8 @@ import Foundation
 import UIKit
 
 struct Utils {
-   static func createTwoCirclesImage(size: CGSize, firstCircleRadius: CGFloat, secondCircleRadius: CGFloat,
+   static func createTwoCirclesImage(size: CGSize, firstCircleRadius: CGFloat,
+                                     secondCircleRadius: CGFloat,
                                      ringWidth: CGFloat,
                                      openingRatio: CGFloat) -> UIImage? {
         UIGraphicsBeginImageContextWithOptions(size, false, 0)
