@@ -17,5 +17,7 @@ https://github.com/onevcat/Kingfisher
 
 * SkeletonView: O SkeletonView é uma biblioteca útil para iOS que oferece uma maneira fácil e eficiente de adicionar animações de esqueleto às suas visualizações enquanto o conteúdo real está sendo carregado. Com poucas linhas de código, é possível fornecer uma experiência visual agradável para os usuários, transmitindo a sensação de progresso e mantendo-os engajados. O SkeletonView é altamente personalizável, compatível com Auto Layout e suporta diferentes tipos de visualizações, tornando-o uma ótima escolha para aprimorar a usabilidade e a estética de aplicativos iOS.
 
+* SnapshotTesting: O uso do SnapshotTesting no desenvolvimento iOS oferece benefícios significativos, incluindo garantia de consistência visual, detecção de regressões visuais, agilidade na revisão de alterações, redução de testes manuais repetitivos, suporte a vários dispositivos, simplificação de casos de teste complexos e melhoria na confiabilidade dos testes de interface do usuário.
+
 # Run
 * pod install
